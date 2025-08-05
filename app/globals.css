@@ -1,0 +1,4 @@
+/* this file is used to define global styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
