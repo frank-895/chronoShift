@@ -1,3 +1,8 @@
+// this is the root layout that is shared by all pages
+// it defines header, footer, logo etc. 
+// this is a special file - not a page itself
+
+
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'

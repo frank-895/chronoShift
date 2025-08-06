@@ -1,3 +1,7 @@
+// this is the home page
+// to add more complex routes we add folders (components is for reusable)
+// for example, we can add an about/page.tsx and this will appear when the user types in /about
+
 import Layout from './components/Layout'
 import PageContainer from './components/PageContainer'
 

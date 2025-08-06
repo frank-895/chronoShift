@@ -1,3 +1,5 @@
+// this is a reusable container component that restricts content width RESPONSIVELY (depending on screen size)
+
 import React from 'react'
 
 interface PageContainerProps {
